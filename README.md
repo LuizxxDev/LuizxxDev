@@ -1,16 +1,25 @@
-### Hi there 👋
+### Olá! Eu sou o Luiz 👋
 
-<!--
-**LuizxxDev/LuizxxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente sou: Estudante do Ensino Médio e Curso Técnico de T.I no IFPA
+- 💻 Focado em back-end
+- 🌱 Atualmente estou estudando: JAVA / MYSQL
+- ⚡ Estou a procura de mais conhecimento
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizxDev&show_icons=true&theme=dark)
+
+## Tecnologias que estou estudando ✏️
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="JAVA" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)"/>
+  </div>
+  
+## Tecnologias que pretendo estudar 📓
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  </div>
