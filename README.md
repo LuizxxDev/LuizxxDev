@@ -1,13 +1,20 @@
-### Olá! Eu sou o Luiz 👋
+# Olá, eu sou o Luiz Felipe 👋
 
-- 🔭 Atualmente sou: Estudante do Ensino Médio e Curso Técnico de T.I no IFPA
-- 💻 Focado em back-end
-- 🌱 Atualmente estou estudando: JAVA / MYSQL
-- ⚡ Estou a procura de mais conhecimento
+Engenheiro de Controle e Automação em formação pelo **IFPA Belém** e Técnico em Informática. Sou focado em desenvolvimento back-end e na otimização de sistemas.
 
-<br>
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizxDev&show_icons=true&theme=dark)
+### No dia a dia (Estudando/Usando)
+- **Linguagens:** Java, MySQL, C++, Python.
+- **Áreas de interesse:** Back-end, Automação e Sistemas Embarcados.
+
+## 📊 Estatísticas do GitHub
+
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizxDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizxDev&layout=compact&theme=dark)
+
+---
+
+*"Sempre em busca de transformar lógica em soluções eficientes."*
 
 ## Tecnologias que estou estudando ✏️
 
@@ -15,12 +22,4 @@
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)"/>
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  </div>
-  
-## Tecnologias que pretendo estudar 📓
-
-<div style="display: inline_block"><br/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   </div>
