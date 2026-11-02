@@ -37,8 +37,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=LuizxxDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizxxDev&layout=compact&theme=dark" />
+  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats-fast.vercel.app/api?username=LuizxxDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="170" alt="Linguagens mais usadas" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=LuizxxDev&layout=compact&theme=dark" />
 </p>
 
 ## 📫 Contato
